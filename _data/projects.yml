@@ -14,3 +14,11 @@
   duration: 2015 &mdash; Present
   url: "https://github.com/education/classroom"
   description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+  
+  
+#NATURAL LANGUAGE PROCESSING
+-PROJECT:NLP
+ROLE:contributer
+duration:1 day
+url:http://localhost:8890/notebooks/Desktop/anaconda/nlp-practise%203.ipynb
+description: a simple programme working on various methods in nlp
